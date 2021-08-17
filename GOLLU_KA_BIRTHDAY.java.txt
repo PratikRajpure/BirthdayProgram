@@ -1,0 +1,74 @@
+import java.time.LocalDate;
+import java.time.Month;
+
+public class GOLLU_KA_BIRTHDAY{
+    public static void main(String args[]) {
+
+        // declare variables for birthday
+        int birthDate = 17;
+        Month birthMonth = Month.AUGUST;
+
+        // get current date
+        LocalDate currentDate = LocalDate.now();
+        System.out.println("Birthday Date: " + currentDate);
+
+        // get current date and month
+        int date = currentDate.getDayOfMonth();
+        Month month = currentDate.getMonth();
+
+        if (date == birthDate && month == birthMonth) {
+            System.out.println("HAPPY BIRTHDAY DEAR SHUBHANGI  !!");
+            System.out.println("You've been there for me through all my ups and downs, and I hope you know I'm always here for you too." +
+                    " Thanks for being such a wonderful best friend. I hope you have a great birthday, " +
+                    "and the year ahead is the best yet!");
+
+            System.out.println("HHHH     HHHH       AA         PPPPPPPPPPP  PPPPPPPPPPP    YY         YY ");
+            System.out.println("HHHH     HHHH       AA         PPPPPPPPPPP  PPPPPPPPPPP    YY         YY ");
+            System.out.println("HHHH     HHHH      AAAA        PP       PP  PP       PP     YY       YY ");
+            System.out.println("HHHH     HHHH     AA  AA       PP       PP  PP       PP      YY     YY  ");
+            System.out.println("HHHHHHHHHHHHH    AA    AA      PPPPPPPPPPP  PPPPPPPPPPP       YYYYYYY ");
+            System.out.println("HHHH     HHHH   AAAAAAAAAA     PP           PP                    YY ");
+            System.out.println("HHHH     HHHH  AA        AA    PP           PP                   YY ");
+            System.out.println("HHHH     HHHH AA          AA   PP           PP                  YY ");
+
+            System.out.println("BBBBBBBBBBB  IIIIIIIIIIIII RRRRRRRRRRRR  TTTTTTTTTTTTTT HHHH       HHHH  DDDDDDDDDDD        AA   YY          YY ");
+            System.out.println("BB        BB      II       RR        RR        TT       HHHH       HHHH  DD         D      AAAA   YY        YY ");
+            System.out.println("BB        BB      II       RR       RR         TT       HHHH       HHHH  DD          D    AA  AA   YY      YY ");
+            System.out.println("BBBBBBBBBB        II       RRRRRRRRRRR         TT       HHHHHHHHHHHHHHH  DD          D   AA    AA   YYYYYYYY ");
+            System.out.println("BB        BB      II       RR       RR         TT       HHHH       HHHH  DD          D  AAAAAAAAAA       YY ");
+            System.out.println("BB        BB      II       RR        RR        TT       HHHH       HHHH  DD         D  AA        AA     YY  ");
+            System.out.println("BBBBBBBBBBB  IIIIIIIIIIIII RR         RR       TT       HHHH       HHHH  DDDDDDDDDDD  AA          AA   YY ");
+
+            System.out.println("  SSSSSSSSSSS     HH        HH    UU         UU    BBBBBBBBBBBBB    HH        HH        AA        NN         NN   GGGGGGGGGGGGGG   HH        HH    IIIIIIIIIIIIII                         ");
+            System.out.println("  SS              HH        HH    UU         UU    BB          BB   HH        HH       AAAA       NNN        NN   GG          GG   HH        HH          II                               ");
+            System.out.println("  SS              HH        HH    UU         UU    BB          BB   HH        HH      AA  AA      NN  NN     NN   GG               HH        HH          II                               ");
+            System.out.println("  SSSSSSSSSSS     HHHHHHHHHHHH    UU         UU    BBBBBBBBBBBB     HHHHHHHHHHHH     AAAAAAAA     NN    NN   NN   GG     GGGGGGG   HHHHHHHHHHHH          II                               ");
+            System.out.println("           SS     HH        HH    UU         UU    BB          BB   HH        HH    AA      AA    NN      NN NN   GG          GG   HH        HH          II                               ");
+            System.out.println("           SS     HH        HH    UU         UU    BB          BB   HH        HH   AA        AA   NN        NNN   GG          GG   HH        HH          II                               ");
+            System.out.println("  SSSSSSSSSSS     HH        HH    UUUUUUUUUUUUU    BBBBBBBBBBBBB    HH        HH  AA          AA  NN         NN   GGGGGGGGGGGGGG   HH        HH    IIIIIIIIIIIIII                         ");
+
+            System.out.println("                       ~~");
+            System.out.println("                       ||");
+            System.out.println("                       ||");
+            System.out.println("                 ~~~~~~~~~~~~~~~~~   ");
+            System.out.println("                |                 |");
+            System.out.println("                |                 |");
+            System.out.println("            ____|                 |___");
+            System.out.println("           |     `````````````````    |");
+            System.out.println("           |     IT'S PARTY TIME!     |");
+            System.out.println("     ______|                          |_____   ");
+            System.out.println("     |      ```````````````````````````     | ");
+            System.out.println("     |       Happy 20th BIRTHDAY SHUBHANGI!   | ");
+            System.out.println("     |______________________________________|    ");
+
+            System.out.println("  I would like to wish again on your birthday dear Shubhangi (#GOLLU) ...........");
+
+        }
+    }
+
+        }
+
+
+    }
+
+}
