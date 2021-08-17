@@ -58,7 +58,7 @@ public class GOLLU_KA_BIRTHDAY{
             System.out.println("           |     IT'S PARTY TIME!     |");
             System.out.println("     ______|                          |_____   ");
             System.out.println("     |      ```````````````````````````     | ");
-            System.out.println("     |       Happy 20th BIRTHDAY SHUBHANGI!   | ");
+            System.out.println("     |       Happy 20th BIRTHDAY SHUBHANGI! | ");
             System.out.println("     |______________________________________|    ");
 
             System.out.println("  I would like to wish again on your birthday dear Shubhangi (#GOLLU) ...........");
