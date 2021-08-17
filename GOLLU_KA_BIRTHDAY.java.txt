@@ -5,7 +5,7 @@ public class GOLLU_KA_BIRTHDAY{
     public static void main(String args[]) {
 
         // declare variables for birthday
-        int birthDate = 17;
+        int birthDate = 18;
         Month birthMonth = Month.AUGUST;
 
         // get current date
