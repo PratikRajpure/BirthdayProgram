@@ -18,9 +18,9 @@ public class GOLLU_KA_BIRTHDAY{
 
         if (date == birthDate && month == birthMonth) {
             System.out.println("HAPPY BIRTHDAY DEAR SHUBHANGI  !!");
-            System.out.println("You've been there for me through all my ups and downs, and I hope you know I'm always here for you too." +
+            System.out.println("\n\n\nYou've been there for me through all my ups and downs, and I hope you know I'm always here for you too." +
                     " Thanks for being such a wonderful best friend. I hope you have a great birthday, " +
-                    "and the year ahead is the best yet!");
+                    "and the year ahead is the best yet!\n\n\n");
 
             System.out.println("HHHH     HHHH       AA         PPPPPPPPPPP  PPPPPPPPPPP    YY         YY ");
             System.out.println("HHHH     HHHH       AA         PPPPPPPPPPP  PPPPPPPPPPP    YY         YY ");
@@ -29,7 +29,7 @@ public class GOLLU_KA_BIRTHDAY{
             System.out.println("HHHHHHHHHHHHH    AA    AA      PPPPPPPPPPP  PPPPPPPPPPP       YYYYYYY ");
             System.out.println("HHHH     HHHH   AAAAAAAAAA     PP           PP                    YY ");
             System.out.println("HHHH     HHHH  AA        AA    PP           PP                   YY ");
-            System.out.println("HHHH     HHHH AA          AA   PP           PP                  YY ");
+            System.out.println("HHHH     HHHH AA          AA   PP           PP                  YY \n\n\n");
 
             System.out.println("BBBBBBBBBBB  IIIIIIIIIIIII RRRRRRRRRRRR  TTTTTTTTTTTTTT HHHH       HHHH  DDDDDDDDDDD        AA   YY          YY ");
             System.out.println("BB        BB      II       RR        RR        TT       HHHH       HHHH  DD         D      AAAA   YY        YY ");
@@ -37,7 +37,7 @@ public class GOLLU_KA_BIRTHDAY{
             System.out.println("BBBBBBBBBB        II       RRRRRRRRRRR         TT       HHHHHHHHHHHHHHH  DD          D   AA    AA   YYYYYYYY ");
             System.out.println("BB        BB      II       RR       RR         TT       HHHH       HHHH  DD          D  AAAAAAAAAA       YY ");
             System.out.println("BB        BB      II       RR        RR        TT       HHHH       HHHH  DD         D  AA        AA     YY  ");
-            System.out.println("BBBBBBBBBBB  IIIIIIIIIIIII RR         RR       TT       HHHH       HHHH  DDDDDDDDDDD  AA          AA   YY ");
+            System.out.println("BBBBBBBBBBB  IIIIIIIIIIIII RR         RR       TT       HHHH       HHHH  DDDDDDDDDDD  AA          AA   YY \n\n\n");
 
             System.out.println("  SSSSSSSSSSS     HH        HH    UU         UU    BBBBBBBBBBBBB    HH        HH        AA        NN         NN   GGGGGGGGGGGGGG   HH        HH    IIIIIIIIIIIIII                         ");
             System.out.println("  SS              HH        HH    UU         UU    BB          BB   HH        HH       AAAA       NNN        NN   GG          GG   HH        HH          II                               ");
@@ -45,7 +45,7 @@ public class GOLLU_KA_BIRTHDAY{
             System.out.println("  SSSSSSSSSSS     HHHHHHHHHHHH    UU         UU    BBBBBBBBBBBB     HHHHHHHHHHHH     AAAAAAAA     NN    NN   NN   GG     GGGGGGG   HHHHHHHHHHHH          II                               ");
             System.out.println("           SS     HH        HH    UU         UU    BB          BB   HH        HH    AA      AA    NN      NN NN   GG          GG   HH        HH          II                               ");
             System.out.println("           SS     HH        HH    UU         UU    BB          BB   HH        HH   AA        AA   NN        NNN   GG          GG   HH        HH          II                               ");
-            System.out.println("  SSSSSSSSSSS     HH        HH    UUUUUUUUUUUUU    BBBBBBBBBBBBB    HH        HH  AA          AA  NN         NN   GGGGGGGGGGGGGG   HH        HH    IIIIIIIIIIIIII                         ");
+            System.out.println("  SSSSSSSSSSS     HH        HH    UUUUUUUUUUUUU    BBBBBBBBBBBBB    HH        HH  AA          AA  NN         NN   GGGGGGGGGGGGGG   HH        HH    IIIIIIIIIIIIII\n\n\n                         ");
 
             System.out.println("                       ~~");
             System.out.println("                       ||");
@@ -61,14 +61,11 @@ public class GOLLU_KA_BIRTHDAY{
             System.out.println("     |       Happy 20th BIRTHDAY SHUBHANGI! | ");
             System.out.println("     |______________________________________|    ");
 
-            System.out.println("  I would like to wish again on your birthday dear Shubhangi (#GOLLU) ...........");
+            System.out.println(" \n\n\n I would like to wish again on your birthday dear Shubhangi (#GOLLU) ...........");
 
         }
     }
 
-        }
 
 
     }
-
-}
